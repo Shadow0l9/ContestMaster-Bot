@@ -11,37 +11,6 @@ This repository contains a Discord bot designed to create and manage contests, q
 - Interactive leaderboard with real-time updates
 - Virtual rewards system (special roles, badges)
 
-## Getting Started
-
-### Prerequisites
-
-- Python 3.8+
-- Discord.py library
-- SQLite database
-- A Discord bot token
-
-### Installation
-
-1. Clone this repository
-```bash
-git clone https://github.com/yourusername/contest-master-bot.git
-cd contest-master-bot
-```
-
-2. Install required dependencies
-```bash
-pip install discord.py python-dotenv
-```
-
-3. Create a `.env` file with your Discord bot token
-```
-DISCORD_TOKEN=your_discord_bot_token_here
-```
-
-4. Run the bot
-```bash
-python main.py
-```
 
 ## Usage
 
